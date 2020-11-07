@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7f94bd3-974d-400f-ad51-b4029e220800" name="Default Changelist" comment="" />
+    <list default="true" id="f7f94bd3-974d-400f-ad51-b4029e220800" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2.Day 2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.First Day/This Keyword.js" beforeDir="false" afterPath="$PROJECT_DIR$/2.Day 2/playground.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,21 +32,30 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ju0hDDzi0bUVe3Nf1rnVBg0XEr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/node-v14.15.0-linux-x64/bin/node" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Node.js.3.Fat Arrow Functions.js">
@@ -51,33 +82,57 @@
       <updated>1604638788213</updated>
       <workItem from="1604638790168" duration="1970000" />
       <workItem from="1604768585948" duration="510000" />
-      <workItem from="1604769258659" duration="1826000" />
+      <workItem from="1604769258659" duration="3391000" />
+      <workItem from="1604772666811" duration="1193000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1896" height="266" key="GridCell.Tab.0.bottom" timestamp="1604770990927">
+    <state x="642" y="377" width="626" height="352" key="#Notifications" timestamp="1604772688374">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1896" height="266" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1604770990927" />
-    <state width="1896" height="266" key="GridCell.Tab.0.center" timestamp="1604770990926">
+    <state x="642" y="377" width="626" height="352" key="#Notifications/0.28.1920.1052@0.28.1920.1052" timestamp="1604772688374" />
+    <state x="804" y="456" key="Github.ShareDialog" timestamp="1604771162867">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1896" height="266" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1604770990926" />
-    <state width="1896" height="266" key="GridCell.Tab.0.left" timestamp="1604770990925">
+    <state x="804" y="456" key="Github.ShareDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1604771162867" />
+    <state x="725" y="178" width="460" height="750" key="Github.UntrackedFilesDialog" timestamp="1604771169116">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1896" height="266" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1604770990925" />
-    <state width="1896" height="266" key="GridCell.Tab.0.right" timestamp="1604770990926">
+    <state x="725" y="178" width="460" height="750" key="Github.UntrackedFilesDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1604771169116" />
+    <state width="1872" height="266" key="GridCell.Tab.0.bottom" timestamp="1604772650018">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1896" height="266" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1604770990926" />
-    <state x="449" y="189" width="1269" height="730" key="SettingsEditor" timestamp="1604768882791">
+    <state width="1872" height="266" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1604772650018" />
+    <state width="1872" height="266" key="GridCell.Tab.0.center" timestamp="1604772650017">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="449" y="189" width="1269" height="730" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1604768882791" />
+    <state width="1872" height="266" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1604772650017" />
+    <state width="1872" height="266" key="GridCell.Tab.0.left" timestamp="1604772650012">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1872" height="266" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1604772650012" />
+    <state width="1872" height="266" key="GridCell.Tab.0.right" timestamp="1604772650018">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1872" height="266" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1604772650018" />
+    <state x="148" y="128" width="1681" height="730" key="SettingsEditor" timestamp="1604772986956">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="148" y="128" width="1681" height="730" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1604772986956" />
   </component>
 </project>
