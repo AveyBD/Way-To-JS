@@ -1,7 +1,7 @@
 # Way To JS
 **Learning The language I have always ignored** 
 
-[![Way To JS](https://github.com/AveyBD/Way-To-JS/raw/master/javascript-image.png "Way To JS")](https://github.com/AveyBD/Way-To-JS/http:// "Way To JS")
+[![Way To JS](https://github.com/AveyBD/Way-To-JS/raw/master/javascript-image.png "Way To JS")](https://github.com/AveyBD/Way-To-JS/ "Way To JS")
 
 ------------
 
@@ -36,3 +36,5 @@ arr[1];            //  2
 arr[2];            //  true
 ```
 
+[========]
+Hellow
