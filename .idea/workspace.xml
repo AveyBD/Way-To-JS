@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7f94bd3-974d-400f-ad51-b4029e220800" name="Default Changelist" comment="Beautify README.md">
-      <change afterPath="$PROJECT_DIR$/2.Day 2/2.playground.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Day 2/3.typecast.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Day 2/4.Number after decimal.js" afterDir="false" />
+    <list default="true" id="f7f94bd3-974d-400f-ad51-b4029e220800" name="Default Changelist" comment="Added toFixed and toPrecision">
+      <change afterPath="$PROJECT_DIR$/2.Day 2/stringConcatenation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Day 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.Day 2/1.index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Day 2/playground.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +32,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="TypeScript File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -68,10 +64,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.4.Number after decimal.js">
-    <configuration name="2.Variable.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1.First Day/2.Variable.js" working-dir="$PROJECT_DIR$/1.First Day">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.5.stringConcatenation.js">
     <configuration name="2.playground.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2.Day 2/2.playground.js" working-dir="$PROJECT_DIR$/2.Day 2">
       <method v="2" />
     </configuration>
@@ -84,13 +77,16 @@
     <configuration name="4.Number after decimal.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2.Day 2/4.Number after decimal.js" working-dir="$PROJECT_DIR$/2.Day 2">
       <method v="2" />
     </configuration>
+    <configuration name="5.stringConcatenation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2.Day 2/5.stringConcatenation.js" working-dir="$PROJECT_DIR$/2.Day 2">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.5.stringConcatenation.js" />
         <item itemvalue="Node.js.4.Number after decimal.js" />
         <item itemvalue="Node.js.3.typecast.js" />
         <item itemvalue="Node.js.2.playground.js" />
         <item itemvalue="Node.js.3.Fat Arrow Functions.js" />
-        <item itemvalue="Node.js.2.Variable.js" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +102,7 @@
       <workItem from="1604768585948" duration="510000" />
       <workItem from="1604769258659" duration="3391000" />
       <workItem from="1604772666811" duration="1193000" />
-      <workItem from="1604813431647" duration="3605000" />
+      <workItem from="1604813431647" duration="3920000" />
     </task>
     <task id="LOCAL-00001" summary="Added an Image :p Updated README.md">
       <created>1604820117346</created>
@@ -136,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604820641039</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added toFixed and toPrecision">
+      <created>1604827199049</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604827199049</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +160,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added an Image :p Updated README.md" />
     <MESSAGE value="Beautify README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Beautify README.md" />
+    <MESSAGE value="Added toFixed and toPrecision" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added toFixed and toPrecision" />
   </component>
   <component name="WindowStateProjectService">
     <state x="642" y="377" width="626" height="352" key="#Notifications" timestamp="1604772688374">
@@ -172,30 +176,34 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="725" y="178" width="460" height="750" key="Github.UntrackedFilesDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1604771169116" />
-    <state width="1896" height="266" key="GridCell.Tab.0.bottom" timestamp="1604827162848">
+    <state width="1896" height="266" key="GridCell.Tab.0.bottom" timestamp="1604827478443">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1896" height="266" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1604827162848" />
-    <state width="1896" height="266" key="GridCell.Tab.0.center" timestamp="1604827162848">
+    <state width="1896" height="266" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1604827478443" />
+    <state width="1896" height="266" key="GridCell.Tab.0.center" timestamp="1604827478443">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1896" height="266" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1604827162848" />
-    <state width="1896" height="266" key="GridCell.Tab.0.left" timestamp="1604827162847">
+    <state width="1896" height="266" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1604827478443" />
+    <state width="1896" height="266" key="GridCell.Tab.0.left" timestamp="1604827478443">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1896" height="266" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1604827162847" />
-    <state width="1896" height="266" key="GridCell.Tab.0.right" timestamp="1604827162848">
+    <state width="1896" height="266" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1604827478443" />
+    <state width="1896" height="266" key="GridCell.Tab.0.right" timestamp="1604827478443">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1896" height="266" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1604827162848" />
+    <state width="1896" height="266" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1604827478443" />
     <state x="148" y="128" width="1680" height="730" key="SettingsEditor" timestamp="1604813484204">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="148" y="128" width="1680" height="730" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1604813484204" />
-    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1604820644769">
+    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1604827202966">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1604820644769" />
+    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1604827202966" />
+    <state x="716" y="467" width="478" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604827369928">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="716" y="467" width="478" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.28.1920.1052@0.28.1920.1052" timestamp="1604827369928" />
     <state x="623" y="260" key="search.everywhere.popup" timestamp="1604820638588">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
