@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7f94bd3-974d-400f-ad51-b4029e220800" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2.Day 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript-image.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.First Day/This Keyword.js" beforeDir="false" afterPath="$PROJECT_DIR$/2.Day 2/playground.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +54,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/node-v14.15.0-linux-x64/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="Node.js.3.Fat Arrow Functions.js">
     <configuration name="2.Variable.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1.First Day/2.Variable.js" working-dir="$PROJECT_DIR$/1.First Day">
@@ -84,6 +89,7 @@
       <workItem from="1604768585948" duration="510000" />
       <workItem from="1604769258659" duration="3391000" />
       <workItem from="1604772666811" duration="1193000" />
+      <workItem from="1604813431647" duration="842000" />
     </task>
     <servers />
   </component>
@@ -100,6 +106,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="642" y="377" width="626" height="352" key="#Notifications" timestamp="1604772688374">
@@ -130,9 +137,13 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state width="1872" height="266" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1604772650018" />
-    <state x="148" y="128" width="1681" height="730" key="SettingsEditor" timestamp="1604772986956">
+    <state x="148" y="128" width="1680" height="730" key="SettingsEditor" timestamp="1604813484204">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="148" y="128" width="1681" height="730" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1604772986956" />
+    <state x="148" y="128" width="1680" height="730" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1604813484204" />
+    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1604819886490">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1604819886490" />
   </component>
 </project>
