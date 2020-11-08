@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7f94bd3-974d-400f-ad51-b4029e220800" name="Default Changelist" comment="Added String Lib and User Input">
+    <list default="true" id="f7f94bd3-974d-400f-ad51-b4029e220800" name="Default Changelist" comment="Added String Functions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Day 2/6.String.js" beforeDir="false" afterPath="$PROJECT_DIR$/2.Day 2/6.String.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.Day 2/7.userInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/2.Day 2/7.userInput.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +102,7 @@
       <workItem from="1604768585948" duration="510000" />
       <workItem from="1604769258659" duration="3391000" />
       <workItem from="1604772666811" duration="1193000" />
-      <workItem from="1604813431647" duration="5723000" />
+      <workItem from="1604813431647" duration="5895000" />
     </task>
     <task id="LOCAL-00001" summary="Added an Image :p Updated README.md">
       <created>1604820117346</created>
@@ -153,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604829050862</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added String Functions">
+      <created>1604829342409</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604829342409</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +184,8 @@
     <MESSAGE value="Added toFixed and toPrecision" />
     <MESSAGE value="Added String Concate" />
     <MESSAGE value="Added String Lib and User Input" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added String Lib and User Input" />
+    <MESSAGE value="Added String Functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added String Functions" />
   </component>
   <component name="WindowStateProjectService">
     <state x="642" y="377" width="626" height="352" key="#Notifications" timestamp="1604772688374">
@@ -192,22 +200,22 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="725" y="178" width="460" height="750" key="Github.UntrackedFilesDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1604771169116" />
-    <state width="1896" height="266" key="GridCell.Tab.0.bottom" timestamp="1604829280850">
+    <state width="1896" height="266" key="GridCell.Tab.0.bottom" timestamp="1604829305319">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1896" height="266" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1604829280850" />
-    <state width="1896" height="266" key="GridCell.Tab.0.center" timestamp="1604829280850">
+    <state width="1896" height="266" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1604829305319" />
+    <state width="1896" height="266" key="GridCell.Tab.0.center" timestamp="1604829305318">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1896" height="266" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1604829280850" />
-    <state width="1896" height="266" key="GridCell.Tab.0.left" timestamp="1604829280850">
+    <state width="1896" height="266" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1604829305318" />
+    <state width="1896" height="266" key="GridCell.Tab.0.left" timestamp="1604829305317">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1896" height="266" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1604829280850" />
-    <state width="1896" height="266" key="GridCell.Tab.0.right" timestamp="1604829280850">
+    <state width="1896" height="266" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1604829305317" />
+    <state width="1896" height="266" key="GridCell.Tab.0.right" timestamp="1604829305318">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1896" height="266" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1604829280850" />
+    <state width="1896" height="266" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1604829305318" />
     <state x="148" y="128" width="1680" height="730" key="SettingsEditor" timestamp="1604813484204">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
