@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7f94bd3-974d-400f-ad51-b4029e220800" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/javascript-image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f7f94bd3-974d-400f-ad51-b4029e220800" name="Default Changelist" comment="Added an Image :p Updated README.md">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,8 +87,16 @@
       <workItem from="1604768585948" duration="510000" />
       <workItem from="1604769258659" duration="3391000" />
       <workItem from="1604772666811" duration="1193000" />
-      <workItem from="1604813431647" duration="842000" />
+      <workItem from="1604813431647" duration="1288000" />
     </task>
+    <task id="LOCAL-00001" summary="Added an Image :p Updated README.md">
+      <created>1604820117346</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604820117346</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +113,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added an Image :p Updated README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added an Image :p Updated README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="642" y="377" width="626" height="352" key="#Notifications" timestamp="1604772688374">
@@ -141,9 +151,9 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="148" y="128" width="1680" height="730" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1604813484204" />
-    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1604819886490">
+    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1604820120995">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1604819886490" />
+    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1604820120995" />
   </component>
 </project>
