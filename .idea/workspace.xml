@@ -87,7 +87,7 @@
       <workItem from="1604768585948" duration="510000" />
       <workItem from="1604769258659" duration="3391000" />
       <workItem from="1604772666811" duration="1193000" />
-      <workItem from="1604813431647" duration="1376000" />
+      <workItem from="1604813431647" duration="1403000" />
     </task>
     <task id="LOCAL-00001" summary="Added an Image :p Updated README.md">
       <created>1604820117346</created>
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604820545720</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Beautify README.md">
+      <created>1604820613422</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604820613422</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,9 +166,9 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="148" y="128" width="1680" height="730" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1604813484204" />
-    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1604820548481">
+    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1604820617127">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1604820548481" />
+    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1604820617127" />
   </component>
 </project>
