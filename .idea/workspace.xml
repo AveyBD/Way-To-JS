@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7f94bd3-974d-400f-ad51-b4029e220800" name="Default Changelist" comment="Added String Functions">
+    <list default="true" id="f7f94bd3-974d-400f-ad51-b4029e220800" name="Default Changelist" comment="User input">
+      <change afterPath="$PROJECT_DIR$/2.Day 2/8.Arithmetic and Assignment operator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.Day 2/9.Calculator Project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.Day 2/9.Calculator.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Day 2/7.userInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/2.Day 2/7.userInput.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +33,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="TypeScript File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -64,10 +66,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.6.String.js">
-    <configuration name="3.typecast.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2.Day 2/3.typecast.js" working-dir="$PROJECT_DIR$/2.Day 2">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.8.Arithmetic and Assignment operator.js">
     <configuration name="4.Number after decimal.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2.Day 2/4.Number after decimal.js" working-dir="$PROJECT_DIR$/2.Day 2">
       <method v="2" />
     </configuration>
@@ -80,13 +79,16 @@
     <configuration name="7.userInput.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2.Day 2/7.userInput.js" working-dir="$PROJECT_DIR$/2.Day 2">
       <method v="2" />
     </configuration>
+    <configuration name="8.Arithmetic and Assignment operator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2.Day 2/8.Arithmetic and Assignment operator.js" working-dir="$PROJECT_DIR$/2.Day 2">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.8.Arithmetic and Assignment operator.js" />
         <item itemvalue="Node.js.6.String.js" />
         <item itemvalue="Node.js.7.userInput.js" />
         <item itemvalue="Node.js.5.stringConcatenation.js" />
         <item itemvalue="Node.js.4.Number after decimal.js" />
-        <item itemvalue="Node.js.3.typecast.js" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +104,7 @@
       <workItem from="1604768585948" duration="510000" />
       <workItem from="1604769258659" duration="3391000" />
       <workItem from="1604772666811" duration="1193000" />
-      <workItem from="1604813431647" duration="5895000" />
+      <workItem from="1604813431647" duration="8218000" />
     </task>
     <task id="LOCAL-00001" summary="Added an Image :p Updated README.md">
       <created>1604820117346</created>
@@ -160,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604829342409</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="User input">
+      <created>1604829482811</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604829482811</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +194,8 @@
     <MESSAGE value="Added String Concate" />
     <MESSAGE value="Added String Lib and User Input" />
     <MESSAGE value="Added String Functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added String Functions" />
+    <MESSAGE value="User input" />
+    <option name="LAST_COMMIT_MESSAGE" value="User input" />
   </component>
   <component name="WindowStateProjectService">
     <state x="642" y="377" width="626" height="352" key="#Notifications" timestamp="1604772688374">
@@ -200,30 +210,30 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="725" y="178" width="460" height="750" key="Github.UntrackedFilesDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1604771169116" />
-    <state width="1896" height="266" key="GridCell.Tab.0.bottom" timestamp="1604829305319">
+    <state width="1896" height="266" key="GridCell.Tab.0.bottom" timestamp="1604838650395">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1896" height="266" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1604829305319" />
-    <state width="1896" height="266" key="GridCell.Tab.0.center" timestamp="1604829305318">
+    <state width="1896" height="266" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1604838650395" />
+    <state width="1896" height="266" key="GridCell.Tab.0.center" timestamp="1604838650394">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1896" height="266" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1604829305318" />
-    <state width="1896" height="266" key="GridCell.Tab.0.left" timestamp="1604829305317">
+    <state width="1896" height="266" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1604838650394" />
+    <state width="1896" height="266" key="GridCell.Tab.0.left" timestamp="1604838650393">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1896" height="266" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1604829305317" />
-    <state width="1896" height="266" key="GridCell.Tab.0.right" timestamp="1604829305318">
+    <state width="1896" height="266" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1604838650393" />
+    <state width="1896" height="266" key="GridCell.Tab.0.right" timestamp="1604838650395">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1896" height="266" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1604829305318" />
+    <state width="1896" height="266" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1604838650395" />
     <state x="148" y="128" width="1680" height="730" key="SettingsEditor" timestamp="1604813484204">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="148" y="128" width="1680" height="730" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1604813484204" />
-    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1604827202966">
+    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1604829489497">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1604827202966" />
+    <state x="555" y="290" width="800" height="526" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1604829489497" />
     <state x="716" y="467" width="478" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604827369928">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
